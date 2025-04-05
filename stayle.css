@@ -27,14 +27,14 @@ body {
     align-items: center;
     /* justify-content: center; */
     gap: 15px;
-margin-left: 550px;
-margin-top: 30px;
+    /* margin-top: 30px; */
 }
 
-.fa-solid{
-   width: 10px;
+.fa-solid {
+    width: 10px;
 
 }
+
 .score {
     text-align: center;
     font-size: 24px;
